@@ -6,6 +6,27 @@
 <p align="center"> I'm <strong>Carolina Dutra</strong></br>
 Web Development Student</p>
 </div>
+
+<img align="left" alt="carol-por-milksu" height="270" src="https://cdn.discordapp.com/attachments/950920969185284206/1120821373221212170/IMG_0615.png">
+
+```JavaScript
+const WhoAmI = {
+    code: [HTML, CSS, JavaScript],
+    tools: [photoshop, illustrator, after effects, media encoder],
+    curiosity: [i am a Veterinarian and Motion Designer],
+    softSkills: [Communicative, Creative and Teamwork],
+    loves: [music, animals, books, movies, universe and codes]
+}
+
+if (you = "Need Developer") {
+    sendMeEmail("dutracarol001@gmail.com");
+} else {
+    inviteYou("See my portfolio");
+}
+```
+
+##
+
  
  <div align="center">
    <a href="https://github.com/ahcarol">
