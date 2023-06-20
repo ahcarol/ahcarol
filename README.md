@@ -1,5 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BDE8F7&center=true&width=435&lines=Welcome+to+my+profile!+%F0%9F%8E%90" alt="Typing SVG" /></a>
-
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=BDE8F7&center=true&vCenter=true&width=435&height=25&lines=Welcome+to+my+profile!+%F0%9F%8E%90" alt="Typing SVG" /></a>
+ 
+<p align="center"> My name is <strong>Carolina Dutra</strong></br>
+Web Development Student</p>
+</div>
+ 
  <div>
    <a href="https://github.com/ahcarol">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahcarol&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
