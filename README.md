@@ -21,7 +21,7 @@ const WhoAmI = {
 if (you = "Need Developer") {
     sendMeEmail("dutracarol001@gmail.com");
 } else {
-    inviteYou("<a href="https://ahcarol.github.io/meu-portfolio/">See my portfolio"</a>);
+    inviteYou("See my portfolio");
 }
 ```
 ##
