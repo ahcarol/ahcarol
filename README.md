@@ -35,20 +35,27 @@ if (you = "Need Developer") {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcarol&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=FFFFFF" />
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">𝐌𝐢𝐧𝐡𝐚𝐬 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 ♡︎</h1>
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+   </div>
  
  <br>
  
-  ### Mais sobre mim!
+  <div align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">𝐌𝐚𝐢𝐬 𝐬𝐨𝐛𝐫𝐞 𝐦𝐢𝐦 ♡︎</h1>
+    <a href="https://instagram.com/ahcaroul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href = "mailto:cmp.1a.dutracarol001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ahcarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">    </a> 
+   </div>
  
-<div> 
-<a href="https://instagram.com/ahcaroul" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolina-dutra-7bb989226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <br>
  
-  ![Snake animation](https://github.com/ahcarol/ahcarol/blob/output/github-contribution-grid-snake.svg)
-
-</div>
