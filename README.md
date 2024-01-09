@@ -11,7 +11,7 @@ Web Development Student</p>
 
 ```JavaScript
 const WhoAmI = {
-    code: [HTML, CSS, JavaScript],
+    code: [HTML, CSS, JavaScript, Python, React],
     tools: [photoshop, illustrator, after effects, media encoder],
     curiosity: [i am a Veterinarian and Motion Designer],
     softSkills: [Communicative, Creative and Teamwork],
