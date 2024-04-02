@@ -7,7 +7,7 @@
 Web Development Student</p>
 </div>
 
-<img align="left" alt="carol-por-milksu" height="270" src="https://cdn.discordapp.com/attachments/950920969185284206/1120821373221212170/IMG_0615.png">
+<img align="left" alt="carol-por-milksu" height="270" src="blob:https://web.whatsapp.com/5c1eccbd-8006-4dab-aec6-e07caeb92cd7">
 
 ```JavaScript
 const WhoAmI = {
