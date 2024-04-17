@@ -7,7 +7,7 @@
 Web Development Student</p>
 </div>
 
-<img align="left" alt="carol-por-milksu" height="270" src="blob:https://web.whatsapp.com/5c1eccbd-8006-4dab-aec6-e07caeb92cd7">
+<img align="left" alt="gif-notfound" height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d36a4a34259355.56ca4de33c005.gif">
 
 ```JavaScript
 const WhoAmI = {
