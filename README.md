@@ -7,7 +7,7 @@
 Web Development Student</p>
 </div>
 
-<img align="left" alt="gif-notfound" height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d36a4a34259355.56ca4de33c005.gif">
+<img align="left" alt="gif-notfound" height="270" src="https://i.pinimg.com/originals/88/19/ae/8819ae765d18f8fc918757dff1100c51.gif">
 
 ```JavaScript
 const WhoAmI = {
