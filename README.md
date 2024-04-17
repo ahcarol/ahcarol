@@ -13,7 +13,7 @@ Web Development Student</p>
 const WhoAmI = {
     code: [HTML, CSS, JavaScript, Python, React],
     tools: [photoshop, illustrator, after effects, media encoder],
-    curiosity: [i am a Veterinarian and Motion Designer],
+    curiosity: [i am a Veterinarian],
     softSkills: [Communicative, Creative and Teamwork],
     loves: [music, animals, books, movies, universe and codes]
 }
