@@ -7,7 +7,7 @@
 Web Development Student</p>
 </div>
 
-<img align="left" alt="gif-notfound" height="270" src="https://i.pinimg.com/originals/88/19/ae/8819ae765d18f8fc918757dff1100c51.gif">
+<img align="left" alt="gif-notfound" height="290" margin-left="2" src="https://i.pinimg.com/originals/88/19/ae/8819ae765d18f8fc918757dff1100c51.gif">
 
 ```JavaScript
 const WhoAmI = {
@@ -26,7 +26,7 @@ if (you = "Need Developer") {
 ```
 ##
 <div align="center">
-<img alt="bunnies" src="https://64.media.tumblr.com/8559fb4567fe623b51e76470e71be299/642486de40c1548c-85/s640x960/515b2549fe379e3f4f78e9b83236299352d6e1a2.gifv">
+<img alt="bunnies" src="https://64.media.tumblr.com/8e23a19da0818febab7776600cff8d31/0488966c5593f558-b8/s1280x1920/4ea6a24b9a8815c4e06ef52804d713c883356785.pnj">
 </div>
 
 ##
