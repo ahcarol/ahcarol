@@ -15,7 +15,7 @@ const WhoAmI = {
     tools: [photoshop, illustrator, after effects, media encoder],
     curiosity: [i am a Veterinarian],
     softSkills: [Communicative, Creative and Teamwork],
-    loves: [music, animals, books, movies, universe and codes]
+    loves: [bunnies, games, movies, universe and codes]
 }
 
 if (you = "Need Developer") {
